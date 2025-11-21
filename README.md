@@ -78,7 +78,7 @@ php artisan serve
 ### API Documentation
 
 **Interactive Documentation**  
-[View Full API Documentation on Postman](https://documenter.getpostman.com/view/33085841/2sB3dHVCZB){target="_blank" rel="noopener noreferrer"}
+[View Full API Documentation on Postman](https://documenter.getpostman.com/view/33085841/2sB3dHVCZB)
 *(Click to explore all endpoints with examples, auth, and test cases)*
 
 **Local Postman Collection**  
